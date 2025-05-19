@@ -1,4 +1,4 @@
-Hello friends,
-In this repository i have uploaded  the setup of Cube Runner game.
-due to some issue i don't have source codes but Will Upload it sooner or Later.
-Thank You! And enjoy this small game.
+Hey Guys 🙋‍♂️,
+Sorry for the source code, will upload it sooner or later 🤞.
+For the time being you can try the game i've uploaded the setup .exe file 😁.
+Thank You! And enjoy the Game 😊.
